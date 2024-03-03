@@ -39,7 +39,7 @@ const config = {
       {
         title: "Does my toothpaste have dangerous chemicals?",
         description:
-          "Yep! Every major toothpaste brand in Pakistan have these dagenrous chemicals, check out ingredient list of your toothpaste it should include names like Sodium laureth sulfate (SLS), propylene glycol or similar harmful chemicals",
+          "Yep! Every major toothpaste brand in Pakistan have these dangerous chemicals, check out ingredient list of your toothpaste it should include names like Sodium laureth sulfate (SLS), propylene glycol or similar harmful chemicals",
       },
       {
         title: "How soon can you expect Candid toothpaste in your hands?",
