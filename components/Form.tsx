@@ -32,7 +32,7 @@ const Form = () => {
       .then((res) => res.json())
       .then((data) => {
         if (data.success) {
-          setMessage("Thanks for subscribing!");
+          setMessage("Thanks for Joining our mission! 🚀");
         } else {
           setMessage("Something went wrong, please try again.");
         }
