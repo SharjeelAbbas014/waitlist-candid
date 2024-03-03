@@ -39,9 +39,11 @@ const Hero = () => {
         <Form />
       </div>
       <Image
-        src="/hero.jpg"
+        src="/hero.png"
         alt="hero"
         width={1152}
+        priority
+        quality={80}
         height={1536}
         className="rounded-sm xl:w-6/12 xl:max-w-[370px] w-11/12 h-max"
       />
