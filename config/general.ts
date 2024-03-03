@@ -3,6 +3,8 @@ const config = {
   title: "Candid | Waitlist Page",
   description:
     "Step into the future of oral care with Pakistan's first nHA Toothpaste. Inspired by cutting-edge science and free from SLS, our Nano Hydroxyapatite formula is designed not just to protect, but to revolutionize your dental routine. Join our waitlist today for exclusive early access to a new era of oral health, where innovation meets care",
+  subscribeForm:
+    "https://dashboard.mailerlite.com/forms/631411/101265918935434456/share",
 
   contents: {
     title: `Smile Safer: Pakistan's First Sulfate/Paraben free Toothpaste`,
@@ -55,7 +57,7 @@ const config = {
       {
         title: "I've heard floride is good",
         description:
-          "Fluoride is a neurotoxin which, in high doses, can be harmful. Excessive exposure can lead to tooth discoloration and bone problems. There is enough fluoride in the water already, without adding more.",
+          "Fluoride does help in short term. Fluoride is a neurotoxin which, in high doses, can be harmful. Excessive exposure can lead to tooth discoloration and bone problems. There is enough fluoride in the water already, without adding more.",
       },
     ],
   },

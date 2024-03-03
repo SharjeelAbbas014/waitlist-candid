@@ -11,7 +11,9 @@ const findRequestURL = (mail: string) => {
   const accountID = getNumbers[0];
   const formID = getNumbers[1];
 
-  const requestURL = `https://assets.mailerlite.com/jsonp/${accountID}/forms/${formID}/subscribe?fields[email]=${mail}`;
+  // eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiY2ZjYmI0NjQyZjJmOGM0MzY5ZDEyYmFlNzljOWM4ZWM5NzgxOGQzOTJjMDc1NmQ1NWQxZGZiMDcwNzBhOGU5YmY2ZTUxZmE4YmQ5NmVmYWIiLCJpYXQiOjE3MDk0NTcyMDMuMTIzOTg1LCJuYmYiOjE3MDk0NTcyMDMuMTIzOTg3LCJleHAiOjQ4NjUxMzA4MDMuMTIwNzA3LCJzdWIiOiI4NjM2NzQiLCJzY29wZXMiOltdfQ.Kyqaijj6zB_4auRmM--UslFNteb8PmdlbB8kfcPB40fHbRolfNMda77BBE-Smqsk-uB0wArzJG9E92YrsQYBKvTmy3L_DL01mHMvkaLtDiBn1LQCiEpdx8vu6ukxP8JAbTJO-9VxgOQS1T2uIx3PDb-TTLWp3hcqpgVGs_FVNVIlchkIfF_kkbGgQoJWhX1tL67dS6Qi7rxo1DJmZlSYJNyhc0BbC9cfaONhAtLWYXrQMzIOEzh69D5QTgyUH_wliIGW-eG97IjhXF4A_wYKiLcAjA9NlK7nF8uPNZwTZGbr3IpgtR3_9NEPN5jxrEb7KLj-XS0Cf41diETfD-CEAr7SPLgqHElABU4I7dTz6laXwNYtih-bRANv4sEW8grId-MocLpwenzrDyfV2rm8FpSKqMsH-nhZTDy4B8m2RkPcwe-UAOguVGCLn6poqSG6VwT98HaRXTA8e_4GAM0c-4k9F3lz4KyQqInp6nVu9UTckbh8QIjmTfAbMO4E6jkXcAdbzodWwORFFsO4l1yz4RWaLf-2xfnvtRFpH8F9bLe_4sec0zTtmFSqxQICY3hsiCeJOvDGh8XtaRV11izMHBW58DMVqVx8TSpn5OqvioSBr2KBENQp2fNo5gC3bSuys7V_3H4yjq7tKo0_ROEZR15GYrb04EhtE8Pr7ERA7I8
+
+  const requestURL = `https://assets.mailerlite.com/jsonp/853479/forms/114773983781455277/subscribe?fields[email]=${mail}`;
 
   return requestURL;
 };
