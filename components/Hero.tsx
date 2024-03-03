@@ -39,12 +39,12 @@ const Hero = () => {
         <Form />
       </div>
       <Image
-        src="/hero.png"
+        src="/hero.webp"
         alt="hero"
-        width={1152}
+        width={576}
         priority
-        quality={80}
-        height={1536}
+        quality={75}
+        height={768}
         className="rounded-sm xl:w-6/12 xl:max-w-[370px] w-11/12 h-max"
       />
     </section>

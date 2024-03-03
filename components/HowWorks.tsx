@@ -13,9 +13,9 @@ const HowWorks = () => {
       <Title label="Frequently Asked Questions" />
       <div className="flex xl:flex-row flex-col gap-8 justify-center">
         <Image
-          src="/howWorks.png"
+          src="/howWorks.webp"
           alt="hero"
-          quality={80}
+          quality={75}
           width={460}
           height={330}
           className="xl:w-[360px] w-full xl:order-1 order-2 rounded-sm h-max"
