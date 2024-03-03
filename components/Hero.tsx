@@ -45,6 +45,7 @@ const Hero = () => {
         priority
         quality={75}
         height={768}
+        placeholder="blur"
         className="rounded-sm xl:w-6/12 xl:max-w-[370px] w-11/12 h-max"
       />
     </section>

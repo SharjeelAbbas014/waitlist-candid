@@ -19,6 +19,7 @@ const HowWorks = () => {
           width={460}
           height={330}
           className="xl:w-[360px] w-full xl:order-1 order-2 rounded-sm h-max"
+          placeholder="blur"
         />
         <div className="xl:order-2 order-1 flex flex-col gap-5">
           {config.contents.howWorks.map((item, index) => {
