@@ -19,6 +19,7 @@ const HowWorks = () => {
           width={460}
           height={330}
           className="xl:w-[360px] w-full xl:order-1 order-2 rounded-sm h-max"
+          blurDataURL="data:image/octet-stream;base64,UklGRkwBAABXRUJQVlA4IEABAAAQBwCdASooADUAPpFAnEklpCMhKrgKALASCUAZxVTQhPixtjBCMr1VNp+P6VhF22GYc+f8lZYKIKFLkBmWpAV8IAD+8tlqP/zsH8uvt57Jf7bSPa7LTBx+D65LjM2BV2Rgl/hDXqYh9I3QumQMOHnK1wKlr9f2gDSjkLCar1Lcpz+o3Uk+211B0KOsDU2cVzR7tjRHmhRI417fyHqi++03XvXWMzcG6LiWPuKwd9YXqpEXjcoMfVLnR6/bLnIBzRWEa4/0aU6JFuNsZ5uHkpXgP+3kWiyT7vLN666mwipKoed6Hw50J8OTqnZmRoq2780uXhS6+vtFRZy779wSbrPjLuLa+vqCJeFXlHFsZAty9TRqtv5A0WQ3VPsAfit9KdWXcXBN/Y+PICxhijva+h3MSOP+TN+cs3aHFLSIfsAAAA=="
           placeholder="blur"
         />
         <div className="xl:order-2 order-1 flex flex-col gap-5">
