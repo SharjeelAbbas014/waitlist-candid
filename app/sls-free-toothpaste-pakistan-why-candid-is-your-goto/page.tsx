@@ -32,9 +32,9 @@ export default function slsFree() {
           Discover the Best SLS-Free Toothpaste in Pakistan: Why Candid is Your
           Go-To Choice
         </h1>
-        {content.map((para) => {
+        {content.map((para, i) => {
           return (
-            <div>
+            <div key={i}>
               <h2 className="text-2xl font-bold text-gray-900 mb-4">
                 {para.title}:
               </h2>
