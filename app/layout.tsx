@@ -5,6 +5,7 @@ import { Inter } from "next/font/google";
 import config from "@/config/general";
 // components
 import "./globals.css";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -23,6 +24,7 @@ export default function RootLayout({
       <body className={inter.className + " bg-gray"}>
         {children}
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
