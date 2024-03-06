@@ -1,4 +1,11 @@
 import { About, Hero, Header, HowWorks, Footer } from "@/components";
+import { Metadata } from "next";
+import config from "@/config/general";
+
+export const metadata: Metadata = {
+  title: config.title,
+  description: config.description,
+};
 
 export default function Home() {
   return (

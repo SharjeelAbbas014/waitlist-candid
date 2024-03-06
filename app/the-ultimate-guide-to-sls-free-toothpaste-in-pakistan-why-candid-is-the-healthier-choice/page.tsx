@@ -1,5 +1,12 @@
 import { Footer, Header } from "@/components";
 import { Blog } from "@/components/Blog";
+import { Metadata } from "next";
+
+
+export const metadata: Metadata = {
+  title: "The Ultimate Guide to SLS-Free Toothpaste in Pakistan: Why Candid is the Healthier Choice",
+  description: "In today's wellness-focused world, the toothpaste you choose is more than just a cavity fighter - it's a statement about your health priorities. For the savvy Pakistani consumer, ditching harsh chemicals like Sodium Lauryl Sulfate (SLS) has become a top priority. Enter Candid: the trailblazer in the realm of SLS free toothpaste, championing a cleaner, greener approach to oral health.",
+};
 
 const content = [
   {

@@ -2,7 +2,7 @@ const config = {
   domain: "candidoral.com",
   title: "Candid | Waitlist Page",
   description:
-    "Step into the future of oral care with Pakistan's first nHA Toothpaste. Inspired by cutting-edge science and free from SLS, our Nano Hydroxyapatite formula is designed not just to protect, but to revolutionize your dental routine. Join our waitlist today for exclusive early access to a new era of oral health, where innovation meets care",
+    "Step into the future of oral care with Pakistan's first nHA Toothpaste. Inspired by cutting-edge science and free from SLS, our Nano Hydroxyapatite formula is designed not just to protect, but to revolutionize your dental routine.",
   subscribeForm:
     "https://dashboard.mailerlite.com/forms/631411/101265918935434456/share",
 
