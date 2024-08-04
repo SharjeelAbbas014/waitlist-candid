@@ -7,8 +7,8 @@ const config = {
     "https://dashboard.mailerlite.com/forms/631411/101265918935434456/share",
 
   contents: {
-    title: `Smile Safer: Pakistan's First Sulfate/Paraben free Toothpaste`,
-    markOfTitle: "Sulfate/Paraben free Toothpaste",
+    title: `Smile Safer: Pakistan's First Toxic-Free Toothpaste`,
+    markOfTitle: "Toxic-Free Toothpaste",
     description: `Step into the future of oral care with Pakistan's first nHA Toothpaste. Inspired by cutting-edge science and free from SLS, our Nano Hydroxyapatite formula is designed not just to protect, but to revolutionize your dental routine. Join our waitlist today for exclusive early access to a new era of oral health, where innovation meets care`,
 
     about: [
